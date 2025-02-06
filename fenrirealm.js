@@ -593,7 +593,7 @@ var n = require("@libs/fetch"),
     );
   })())({
     id: "fenrir",
-    sourceSite: "https://fenrirealm.com/",
+    sourceSite: "https://fenrirealm.com",
     sourceName: "Fenrir Realm",
     options: { useNewChapterEndpoint: !0, lang: "English" },
     filters: {
